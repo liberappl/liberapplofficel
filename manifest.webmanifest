@@ -1,13 +1,24 @@
 
 {
-  "id": "/",
+  "id": "/liberapplofficel/",
   "name": "Libérappl",
   "short_name": "Libérappl",
   "description": "Studio indépendant français qui crée des applications gratuites et open source.",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/liberapplofficel/",
+  "scope": "/liberapplofficel/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#171717",
-  "icons": []
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
