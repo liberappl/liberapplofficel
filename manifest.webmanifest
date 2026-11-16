@@ -1,0 +1,13 @@
+
+{
+  "id": "/",
+  "name": "Libérappl",
+  "short_name": "Libérappl",
+  "description": "Studio indépendant français qui crée des applications gratuites et open source.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#171717",
+  "icons": []
+}
